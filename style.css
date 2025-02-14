@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgba(255, 215, 16, 0.594);
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+main{
+    margin: 0;
+    padding-bottom: 5%;
+}
+.tour{
+    width: 80%;
+    border: 0.1em solid black;
+
+}
+.tbody td{   
+    border: 0.1em solid black;
+    padding: 1%;
+    
+}
+.table-center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pag{
+    display: flex;
+    justify-content: center;
+}
+
+.advantages{
+    margin: 10%;
+}
+.font{
+    font-size: 3em;
+    color: black;
+    
+}
+.advantages-element{
+    text-align: center;
+}
+.changeBtn{
+    width: 100px;
+    height: 30px;
+    background-color: blueviolet;
+    color: white;
+}
+
+.road{
+    background-color: aliceblue;
+}
+.pagBtn{
+    width: 3em;
+}
+.nextBtn{
+    width: 5em;
+    color: black;
+}
+
+.gidButton{
+    width: 100%;
+}
+
+footer{
+    padding: 5%;
+}
+
+
+/*карта*/
+.tab-card{
+display: flex;
+flex-direction: row;
+height: 60vh;
+border-radius: 24px;
+}
+  
